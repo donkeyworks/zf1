@@ -58,10 +58,10 @@ jobs:
       env: COMPOSER_ARGS="--prefer-lowest"
     - php: 7.2
     - php: nightly
-      before_install: echo "no\n" | pecl install -f memcached
+      before_install: echo "\n" | pecl install -f memcached
       env: COMPOSER_ARGS="--ignore-platform-reqs --prefer-lowest"
     - php: nightly
-      before_install: echo "no\n" | pecl install -f memcached
+      before_install: echo "\n" | pecl install -f memcached
       env: COMPOSER_ARGS="--ignore-platform-reqs"
 
     - stage: phpstan analysis
