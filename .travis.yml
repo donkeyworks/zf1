@@ -1,6 +1,6 @@
 language: php
 
-sudo: true
+sudo: false
 
 cache:
   directories:
@@ -58,14 +58,20 @@ jobs:
       env: COMPOSER_ARGS="--prefer-lowest"
     - php: 7.2
     - php: nightly
+      addons:
+        apt:
+          packages:
+            - libmemcached-dev
       before_install:
-        - sudo apt-get install -qq -y libmemcached-dev
-        - pecl install -f memcached
+        - yes '' | pecl install -f memcached
       env: COMPOSER_ARGS="--ignore-platform-reqs --prefer-lowest"
     - php: nightly
+      addons:
+        apt:
+          packages:
+            - libmemcached-dev
       before_install:
-        - sudo apt-get install -qq -y libmemcached-dev
-        - pecl install -f memcached
+        - yes '' | pecl install -f memcached
       env: COMPOSER_ARGS="--ignore-platform-reqs"
 
     - stage: phpstan analysis
