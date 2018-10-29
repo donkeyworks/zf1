@@ -61,7 +61,7 @@
         "diablomedia/zendframework1-service": "^1.0.0",
         "diablomedia/zendframework1-service-amazon": "^1.0.0",
         "diablomedia/zendframework1-service-recaptcha": "^1.0.0",
-        "diablomedia/zendframework1-session": "^1.0.1",
+        "diablomedia/zendframework1-session": "dev-master as 1.0.1",
         "diablomedia/zendframework1-session-savehandler-dbtable": "^1.0.0",
         "diablomedia/zendframework1-soap": "^1.0.0",
         "diablomedia/zendframework1-stdlib": "^1.0.0",
