@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1",
+    "name": "donkeyworks/zendframework1",
     "description": "Zend Framework 1",
     "type": "library",
     "keywords": [
@@ -171,7 +171,7 @@
         "exclude": ["/demos", "/documentation", "/tests"]
     },
     "replace": {
-        "zendframework/zendframework1": ">=1.12.20"
+        "diablomedia/zendframework1": ">=4.0.0"
     },
     "scripts": {
         "phpstan": "phpstan analyse -l 4 --autoload-file=vendor/autoload.php --memory-limit=1024M -c phpstan.neon ./library/"
