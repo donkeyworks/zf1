@@ -134,17 +134,17 @@
             "tests/TestHelper.php"
         ],
         "classmap": [
-            "vendor/diablomedia/zendframework1-xml/tests/",
-            "vendor/diablomedia/zendframework1-loader/tests/",
-            "vendor/diablomedia/zendframework1-cache/tests/",
-            "vendor/diablomedia/zendframework1-currency/tests/",
-            "vendor/diablomedia/zendframework1-db/tests/",
-            "vendor/diablomedia/zendframework1-eventmanager/tests/",
-            "vendor/diablomedia/zendframework1-http/tests/",
-            "vendor/diablomedia/zendframework1-openid/tests/",
-            "vendor/diablomedia/zendframework1-stdlib/tests/",
-            "vendor/diablomedia/zendframework1-test/tests/",
-            "vendor/diablomedia/zendframework1-session/tests/"
+            "vendor/donkeyworks/zendframework1-xml/tests/",
+            "vendor/donkeyworks/zendframework1-loader/tests/",
+            "vendor/donkeyworks/zendframework1-cache/tests/",
+            "vendor/donkeyworks/zendframework1-currency/tests/",
+            "vendor/donkeyworks/zendframework1-db/tests/",
+            "vendor/donkeyworks/zendframework1-eventmanager/tests/",
+            "vendor/donkeyworks/zendframework1-http/tests/",
+            "vendor/donkeyworks/zendframework1-openid/tests/",
+            "vendor/donkeyworks/zendframework1-stdlib/tests/",
+            "vendor/donkeyworks/zendframework1-test/tests/",
+            "vendor/donkeyworks/zendframework1-session/tests/"
         ]
     },
     "include-path": [
