@@ -80,7 +80,7 @@
         "donkeyworks/zendframework1-view-helper-json": "^1.0.0",
         "donkeyworks/zendframework1-view-helper-layout": "^1.0.0",
         "donkeyworks/zendframework1-view-helper-navigation": "^1.0.0",
-        "donkeyworks/zendframework1-view-helper-paginationcontrol": "^1.0.0",
+        "donkeyworks/zendframework1-view-helper-pagination": "^1.0.0",
         "donkeyworks/zendframework1-view-helper-partial": "^1.0.0",
         "donkeyworks/zendframework1-view-helper-url": "^1.0.0",
         "donkeyworks/zendframework1-wildfire": "^1.0.0",
@@ -158,6 +158,302 @@
             "type": "vcs",
             "no-api": true,
             "url": "https://github.com/diablomedia/phpstorm-stubs"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-acl"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-application"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-auth"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-auth-adapter-dbtable"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-auth-adapter-http"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-auth-adapter-ldap"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-auth-adapter-openid"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-cache"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-captcha"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-config"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-controller"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-controller-action-helper-ajaxcontext"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-controller-action-helper-autocomplete"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-controller-action-helper-contextswitch"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-controller-action-helper-json"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-crypt"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-currency"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-date"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-db"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-dojo"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-dom"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-eventmanager"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-exception"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-file"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-filter"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-filter-input"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-form"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-http"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-json"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-layout"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-ldap"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-loader"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-locale"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-log"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-log-writer-db"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-log-writer-firebug"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-log-writer-mail"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-mail"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-mime"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-navigation"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-oauth"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-openid"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-paginator"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-progressbar"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-registry"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-rest"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-server"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-service"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-service-amazon"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-service-recaptcha"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-session"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-session-savehandler-dbtable"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-soap"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-stdlib"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-test"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-text"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-translate"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-uri"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-validate"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-validate-db"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-validate-file"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-validate-ldap"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-validate-sitemap"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-action"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-baseurl"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-json"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-layout"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-navigation"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-pagination"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-partial"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-view-helper-url"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-wildfire"
+        },
+        {
+          "type": "vcs",
+          "url": "http://github.com/donkeyworks/zf1-xml"
         }
     ],
     "require-dev": {
